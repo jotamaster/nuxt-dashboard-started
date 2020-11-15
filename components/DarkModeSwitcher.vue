@@ -29,9 +29,9 @@ export default {
       this.setDarkModeClass();
     },
     setDarkModeClass() {
-      this.darkMode
-        ? cash("html").addClass("dark")
-        : cash("html").removeClass("dark");
+      // this.darkMode
+      //   ? cash("html").addClass("dark")
+      //   : cash("html").removeClass("dark");
     }
   }
 };

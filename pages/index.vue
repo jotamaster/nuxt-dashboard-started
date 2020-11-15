@@ -113,9 +113,9 @@ export default {
     DarkModeSwitcher
   },
   mounted() {
-    cash("body")
-      .removeClass("app")
-      .addClass("login");
+    // cash("body")
+    //   .removeClass("app")
+    //   .addClass("login");
   }
 };
 </script>
